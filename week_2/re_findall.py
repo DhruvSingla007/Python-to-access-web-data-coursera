@@ -1,4 +1,4 @@
-import re as re
+import re
 
 x = 'My favourite numbeer is 7 and I want to add 1.2 and 6.4 wich gives me a total of 7.6'
 
